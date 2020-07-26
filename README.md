@@ -1,1 +1,1 @@
-# nmmichalak.github.io
+# Coding projects, mostly python for now
