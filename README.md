@@ -1,2 +1,2 @@
 # Coding projects, mostly python for now
-- Nick Michalak
+Nick Michalak
