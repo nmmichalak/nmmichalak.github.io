@@ -28,7 +28,7 @@ twitter_username: nmmichalak
 github_username: nmmichalak
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 # Exclude from processing.
